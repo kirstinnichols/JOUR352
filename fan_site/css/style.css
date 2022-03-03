@@ -1,0 +1,39 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+	color:#EE167E;
+	font-weight:bold;
+}
+p {
+	color:black;
+	font-family: 'Raleway', sans-serif;
+	line-height:125%;
+	margin-bottom:50px;
+}
+
+h2 {
+	color:#EE167E;
+}
+
+.photo {float:right;
+background-color:#25FF00;
+padding:0 0 20px 0;
+margin:0 0 0 50px;
+width:200px;
+}
+
+.grayRow {
+	background-color:#999;
+}
+
+.branding {
+	width:100%;
+	background-color:#666666;
+		text-align:right;
+}
+
+a:link {
+  color: red;
+}
