@@ -1,0 +1,54 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foundation for Sites</title>
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+  </head>
+  <body>
+    
+    <div class="container">
+    <div class="grid-x padding-x">
+        <div class="large-12 cell mainHeader">
+    <h1>Welcome to My Frameworks Site!</h1>
+  </div>
+
+
+<div class="large-6 medium-6 small-6 cell">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu semper mi. Sed maximus lobortis lorem sit amet mattis. Vivamus at bibendum quam, et iaculis dolor. Etiam lectus mauris, dictum sit amet diam vel, pulvinar accumsan lorem. Pellentesque ac ipsum dolor. Donec nibh nisi, sodales vitae lacus eu, volutpat accumsan leo. Sed eleifend metus in dolor efficitur, in finibus erat interdum. Aenean egestas suscipit magna non laoreet. Integer facilisis mi eget magna convallis, ac pulvinar mi tempor.</p>
+
+<p>Morbi quam diam, tincidunt in augue id, blandit euismod diam. Morbi ut odio a mi vehicula semper. Pellentesque magna elit, luctus mattis dictum quis, lacinia vel justo. In hac habitasse platea dictumst. Sed vel purus ac mi ultrices interdum. Vestibulum non eros pharetra, tristique dolor sed, pulvinar enim. Curabitur nec dictum elit.</p>
+</div>
+
+<div class="large-6 medium-6 small-6 sidebar cell">
+<div class="callout">
+  <h2>Related Information</h2>
+  <p>To learn more about frameworks, click here.</p>
+
+  <a href="https://umd.edu" class="button expanded">Click Here to Learn More</a>
+</div>
+</div>
+</div>
+
+  <div class="grid-x grid-padding-x">
+  <div class="large-4 box1 cell">
+  <h3>THIS IS BOX 1</h3>
+</div>
+<div class="large-4 box2 cell">
+  <h3>THIS IS BOX 2</h3>
+</div>
+<div class="large-4 box3 cell">
+  <h3>THIS IS BOX 3</h3>
+</div>
+</div>
+
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/vendor/what-input.js"></script>
+    <script src="js/vendor/foundation.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
