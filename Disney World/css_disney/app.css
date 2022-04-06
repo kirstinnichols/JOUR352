@@ -1,0 +1,22 @@
+font-family: 'Space Mono', monospace;
+
+.mainHeader {
+	background-color: lightskyblue;
+}
+
+.sidebar {
+	background-color:  #999;
+}
+
+.calloutStyle {
+	margin-top: 30px;
+}
+
+.box1 {
+	background-color:yellow;
+}
+.box2 {
+	background-color:green;
+}
+.box3 {background-color:orange;
+}
