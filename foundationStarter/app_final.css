@@ -1,0 +1,27 @@
+body {
+	background-color:  white;
+}
+
+.mainHeader {
+	background-color: darkgrey;
+}
+
+.sidebar {
+	background-color:  #999;
+}
+
+.calloutStyle {
+	margin-top: 30px;
+}
+
+.box1 {
+	background-color:yellow;
+}
+.box2 {
+	background-color:green;
+}
+.box3 {background-color:orange;
+}
+
+.example-tabs {background-color:  orange;
+}
